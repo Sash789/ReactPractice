@@ -1,0 +1,8 @@
+1.-Crear archivo react
+npx create-react-app primera-app-galeria
+
+2.- Iniciar servidor
+npm start
+
+3.-Detener servidor
+ctrl-c, despues s
