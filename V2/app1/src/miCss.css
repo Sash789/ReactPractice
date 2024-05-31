@@ -1,0 +1,21 @@
+.Reyes{
+    display:flex;
+    flex-wrap: wrap ;
+    justify-content: space-evenly;
+    margin: 10px; 
+    
+}
+
+.FichaRey{
+    width: 30%;
+    background-color: goldenrod;
+    text-align: center;
+    color: white;
+    border-radius: 20px;
+    border:1px solid black;
+    
+    
+}
+.FichaRey img{
+    width: 100%;
+}
